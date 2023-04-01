@@ -1,4 +1,4 @@
-package fr.bankin.challengeapp.ui.theme
+package fr.bankin.feature.presentation.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

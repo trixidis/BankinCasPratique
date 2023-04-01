@@ -1,4 +1,4 @@
-package fr.bankin.challengeapp.ui.theme
+package fr.bankin.feature.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

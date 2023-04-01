@@ -1,0 +1,4 @@
+<resources>
+    <string name="title_activity_categories">CategoriesActivity</string>
+    <string name="no_content">Oups, il semblerait qu\'il n\'y ait rien pour vous ici...</string>
+</resources>
